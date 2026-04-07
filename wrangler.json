@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "altanto-waitlist",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d39901f5-f348-4183-acd7-3c77c508e99a",
+			"database_name": "altanto_waitlist_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
